@@ -1,0 +1,1 @@
+ALTER TABLE `preventive_maintenance_tickets` ADD `category` text;

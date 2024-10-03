@@ -1,0 +1,1 @@
+ALTER TABLE `machines` ADD `has_special_accessories` integer DEFAULT false NOT NULL;

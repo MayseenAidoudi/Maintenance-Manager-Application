@@ -1,0 +1,1 @@
+ALTER TABLE `machines` ADD `calibration_interval` integer;

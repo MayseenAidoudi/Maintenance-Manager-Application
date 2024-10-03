@@ -1,0 +1,1 @@
+ALTER TABLE `special_accessories` ADD `qualification_date` integer;

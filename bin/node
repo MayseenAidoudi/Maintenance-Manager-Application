@@ -1,0 +1,3 @@
+#!/bin/sh
+SCRIPT_DIR=$(dirname "$(realpath "$0")")
+ELECTRON_RUN_AS_NODE=true "$SCRIPT_DIR/../node_modules/electron/dist/Electron.exe" "$@"

@@ -1,0 +1,1 @@
+ALTER TABLE `preventive_maintenance_tickets` ADD `critical` integer DEFAULT false NOT NULL;
