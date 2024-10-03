@@ -45,7 +45,7 @@ A comprehensive solution for managing and tracking machine maintenance, spare pa
 4. **Build the app** (for Electron):
     ```bash
     npx electron-vite build
-    For building a portable version choose win=portable, else choose any target that electron-builder supports.
+    //For building a portable version choose win=portable, else choose any target that electron-builder supports.
     npx electron-builder --win=portable
     ```
 
